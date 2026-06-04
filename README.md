@@ -1,4 +1,3 @@
-<div align="center">
 
 <img src="https://github.com/genngarrr/Flavia/blob/main/Emote_60000137.png" width="320"/>
 
